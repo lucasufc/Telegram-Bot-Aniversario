@@ -1,0 +1,23 @@
+{
+  "name": "telegram-bot-aniversario",
+  "version": "1.0.0",
+  "description": "Bot do Telegram utilizando Js/NODEJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasufc/Telegram-Bot-Aniversario.git"
+  },
+  "keywords": [],
+  "author": "Lucas Martins de Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasufc/Telegram-Bot-Aniversario/issues"
+  },
+  "homepage": "https://github.com/lucasufc/Telegram-Bot-Aniversario#readme",
+  "dependencies": {
+    "telegraf": "3.17.3"
+  }
+}
